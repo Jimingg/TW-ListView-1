@@ -18,7 +18,7 @@ public class FirstActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        lv = findViewById(R.id.lvModules);
+        lv = findViewById(R.id.lvYear);
 
 
         al = new ArrayList<String>();
